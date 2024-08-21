@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Curriculo</title>
     <link rel="shortcut icon" href="html.ico" type="image/x-icon">
     <link rel="stylesheet" href="cv1.css">
 </head>
@@ -18,7 +17,6 @@
     </h3>
     <h2>Resumo</h2>
     <p>Meu nome é Anderson Littig Paixão Neves, sou Policial Mi-litar do Estado do Paraná, sou estudante de Análise e Desenvolvi-mento de Sistemas, área no qual estou buscando crescimento e apri-moramento profissional, ja trabalhei 5 anos como operador de má-quina programável, tenho facilidade em aprendizado com computa-dores, sou uma pessoa facíl de lidar e sei trabalhar muito bem em equipe. Mesmo sendo servidor público tenho muito interesse em atu-ar na área de computação, logo busco sempre aprender. </p>
-
     <h2>Experiência Profissional</h2>
     <br>
         <li> Operador de Corte a Laser <br>
